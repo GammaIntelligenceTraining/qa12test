@@ -12,6 +12,8 @@ Feature 4: Facebook pixel script
 
 # Features not to be tested
 
+Performance
+
 # Testing Environment / Devices
 
 # Testing exit criteria
