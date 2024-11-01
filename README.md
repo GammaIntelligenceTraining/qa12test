@@ -6,3 +6,7 @@ The testing plan for gammatest project
 # Features to be tested 
 
 # Features not to be tested
+
+# Testing Environment / Devices
+
+# Testing exit criteria
